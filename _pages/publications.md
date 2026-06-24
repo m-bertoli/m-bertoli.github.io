@@ -17,6 +17,8 @@ nav_order: 1
 
 **“Paying for Moderation: The Impact of Financial Incentives on Political Extremism.”**
 
+<p style="font-size:0.9rem; color:var(--global-text-color-light,#828282); margin:0.3rem 0 1.5rem 0;"><strong>Abstract.</strong> Right-wing extremism has risen across many democracies. One possible explanation is that political office has become less attractive: when the rewards of office decline, the candidates willing to enter politics may be drawn disproportionately from ideological extremes. This paper tests this mechanism in Brazilian mayoral elections. The analysis constructs a candidate-level measure of ideology from the text of campaign platforms and exploits an exogenous change in mayoral salaries to estimate how compensation affects the ideological composition of mayoral candidates. Higher salaries reduce the share of candidates classified as extreme right, suggesting that the attractiveness of political office shapes the ideological composition of those who run for it.</p>
+
 **“War, Politics, and the Birth of Modern Bureaucracy”** (with Alexander Lee and Anil Menon)
 
 ## Presentations
