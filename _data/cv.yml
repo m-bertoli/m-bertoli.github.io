@@ -1,0 +1,54 @@
+# TODO — replace placeholders with Matteo's real CV details.
+# The CV page also shows a PDF download button (assets/pdf/cv.pdf, set in _pages/cv.md).
+cv:
+  name: Matteo Bertoli
+  label: "PhD Candidate, Political Science"
+  email: mbertol2@ur.rochester.edu
+  location: "Rochester, NY, USA"
+  image: ""
+  summary: "PhD candidate in Political Science at the University of Rochester."
+
+  social_networks:
+    - network: GitHub
+      username: "[github-username]"
+    - network: LinkedIn
+      username: "[linkedin-username]"
+
+  sections:
+    Education:
+      - institution: "[University]"
+        location: "[City, Country]"
+        url:
+        area: "[Field, e.g. Economics]"
+        studyType: PhD
+        start_date: 20XX
+        end_date: present
+        highlights:
+          - "[Advisor, thesis topic, etc.]"
+
+      - institution: "[University]"
+        location: "[City, Country]"
+        area: "[Field]"
+        studyType: "[MSc / BA]"
+        start_date: 20XX
+        end_date: 20XX
+
+    Experience:
+      - company: "[Institution]"
+        position: "[Role]"
+        location: "[City, Country]"
+        start_date: 20XX
+        end_date: present
+        highlights:
+          - "[Description]"
+
+    Awards:
+      - title: "[Award / grant]"
+        date: 20XX
+        awarder: "[Awarding body]"
+
+    Languages:
+      - name: Italian
+        summary: "Native speaker"
+      - name: English
+        summary: "Fluent"

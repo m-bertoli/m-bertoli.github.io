@@ -1,0 +1,12 @@
+# Social icons shown at the bottom of the home page (jekyll-socials plugin).
+#
+# IMPORTANT: every line that is NOT commented out renders an icon — even if its
+# value is blank or "false". So only keep the ones you actually have; leave the
+# rest commented until you have a real handle/ID, then uncomment and fill in.
+cv_pdf: /assets/pdf/cv.pdf
+email: mbertol2@ur.rochester.edu
+# scholar_userid:     # Google Scholar: the string after "user=" in your profile URL
+# github_username:    # GitHub username
+# linkedin_username:  # LinkedIn vanity name (linkedin.com/in/<this>)
+# orcid_id:           # ORCID iD, e.g. 0000-0000-0000-0000
+# x_username:         # X/Twitter handle (no @)
