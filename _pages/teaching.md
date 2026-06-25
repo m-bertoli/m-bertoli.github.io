@@ -11,7 +11,7 @@ nav_order: 3
 
 Teaching Assistant, Department of Political Science:
 
-- **PSCI 205: Data Analysis I** (Curt Signorino) · Fall 2025
-- **PSCI 205: Data Analysis II** (Curt Signorino) · Spring 2025
+- **PSCI 205: Data Analysis I** (Curtis Signorino) · Fall 2025
+- **PSCI 205: Data Analysis II** (Curtis Signorino) · Spring 2025
 - **PSCI 248: Discrimination** (Kevin Clarke) · Fall 2024
 - **PSCI 288: Game Theory** (Romans Pancs) · Spring 2024
