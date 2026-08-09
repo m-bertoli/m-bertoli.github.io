@@ -6,6 +6,8 @@ subtitle: "PhD Candidate, Department of Political Science, University of Rochest
 
 profile:
   align: right
+  image: prof_pic.jpg
+  image_circular: false # crops the image to make it circular
   more_info: >
     <p>Department of Political Science</p>
     <p>University of Rochester</p>
