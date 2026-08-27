@@ -27,7 +27,7 @@ nav_order: 1
 
 **“Extremism Is Self-Undermining, but Populism Is Not.”**
 - American Political Science Association Annual Meeting, Boston, MA, September 2026 *(forthcoming)*
-- Annual Meeting of the Society for Political Methodology (PolMeth), East Lansing, MI, July 2026 *(forthcoming)*
+- Annual Meeting of the Society for Political Methodology (PolMeth), East Lansing, MI, July 2026
 
 **“War, Politics, and the Birth of Modern Bureaucracy”** (with Alexander Lee and Anil Menon)
 - American Political Science Association Annual Meeting, Los Angeles, CA, 2023
