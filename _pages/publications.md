@@ -15,7 +15,7 @@ nav_order: 1
 
 <p style="margin:0.3rem 0 1.5rem 0;"><a href="{{ '/assets/pdf/bertoli_jmp.pdf?v=51' | relative_url }}" target="_blank" rel="noopener" style="display:inline-block; padding:3px 12px; border:1px solid var(--global-divider-color,#e8e8e8); border-radius:6px; font-size:0.8rem; text-decoration:none; color:inherit;">📄&nbsp;Download paper</a></p>
 
-**“Paying for Moderation: The Impact of Financial Incentives on Political Extremism.”**
+**“Paying for Moderation”**
 
 <p style="font-size:0.9rem; color:var(--global-text-color-light,#828282); margin:0.3rem 0 1.5rem 0;"><strong>Abstract.</strong> What drives political extremism? Most explanations emphasize voters. This paper shows that the financial rewards of office also play a role. The paper uses a regression discontinuity design at a constitutional population threshold in Brazil that raises councilor salary caps and, in practice, mayoral pay. It develops two measures of candidate ideology from legally required platforms: one based on supervised transformer classifiers and the other on an ensemble of large language models. Above the threshold, both the share of extreme-right candidates and the probability of electing an extreme-right mayor decline, with no comparable decline on the left. Joint estimates of wealth and ideology suggest substitution toward relatively wealthy moderate-right candidates. Supplementary U.S. evidence suggests a similar asymmetric response and is consistent with the same selection mechanism. These findings suggest that political compensation can limit political extremism through candidate selection, reshaping the alternatives available to voters.</p>
 
