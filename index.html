@@ -92,7 +92,7 @@ function initializeCookieConsent() {
         },
       },
     },
-    onFirstConsent: function (consentData) {
+    onConsent: function (consentData) {
       updateConsentMode(consentData);
     },
     onChange: function (consentData) {
@@ -101,7 +101,7 @@ function initializeCookieConsent() {
   });
 
   function updateConsentMode(consentData) {
-    var categories = consentData.categories || consentData;
+    var categories = { analytics: window.CookieConsent.acceptedCategory("analytics") };
 
     if (!categories || typeof categories !== "object") {
       console.warn("Invalid consent data structure:", consentData);
